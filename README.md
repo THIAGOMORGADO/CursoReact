@@ -8,3 +8,10 @@ Instalando Projeto React js
 
 **Aula02**
 ##### Limpando e configurando Os Arquivos do projeto 
+
+
+**Aula03**
+##### Configurando React router Dom v6 
+
+Configurando arquivo de de roteamento do projeto 
+
